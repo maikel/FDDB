@@ -1,0 +1,3 @@
+[submodule "FDDB-Fragen"]
+	path = FDDB-Fragen
+	url = git@github.com:maikel/FDDB-Fragen.git
